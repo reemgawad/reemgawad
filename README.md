@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📫 Reach me at **reemgwd@gmail.com**
 
-⚡ Fun fact: **I make pottery**
+⚡ Fun fact: **I make ceramics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
