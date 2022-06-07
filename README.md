@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi 👋, I'm Reem</h1>
-<h3 align="left">A passionate fullstack developer from Montreal</h3>
+# Hi 👋, I'm Reem
+## A passionate fullstack developer from Montreal
 
 - 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
 
