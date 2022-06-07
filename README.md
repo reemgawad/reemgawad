@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m also learning **React & Docker**
 
-📫 How to reach me **reemgwd@gmail.com**
+📫 Reach me at **reemgwd@gmail.com**
 
 ⚡ Fun fact **I make pottery**
 
