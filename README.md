@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Reem
+# Hi 👋 I'm Reem
 ## A passionate fullstack developer from Montreal
 
 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
