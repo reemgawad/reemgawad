@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Reem
 ## A passionate fullstack developer from Montreal
 
-- 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
+🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
 
-- 🌱 I’m also learning **React & Docker**
+🌱 I’m also learning **React & Docker**
 
-- 📫 How to reach me **reemgwd@gmail.com**
+📫 How to reach me **reemgwd@gmail.com**
 
-- ⚡ Fun fact **I make pottery**
+⚡ Fun fact **I make pottery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
