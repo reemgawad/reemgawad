@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋 I'm Reem
-## A passionate fullstack developer from Montreal
+## A fullstack developer from Montreal
 
 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
 
