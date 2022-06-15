@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
 
-🌱 I’m also learning **React & Node.js**
+🌱 I’m also learning **React & Typescript**
 
 ⚡ Fun fact: **I make ceramics**
 
